@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x79c3c925d57c0943e68d8923be800a7e9122eaed",
+  "SCAN_LINK": "https://polygonscan.com/token/0x79c3c925d57c0943e68d8923be800a7e9122eaed",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pill Universe",
+  "SYMBOL": "Pill",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pilluniverse",
+  "SHOW_BACKGROUND": false
+}
